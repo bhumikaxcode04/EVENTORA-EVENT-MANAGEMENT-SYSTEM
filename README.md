@@ -1,4 +1,20 @@
 # Eventora – Event Management System
+```html
+## Screenshots
+
+<p align="center">
+  <img src="Screenshots-Eventora/eventorafront.jpg" width="550">
+</p>
+
+<p align="center">
+  <img src="Screenshots-Eventora/eventsshow.jpg" width="550">
+</p>
+
+<p align="center">
+  <img src="Screenshots-Eventora/adminapproved.jpg" width="550">
+</p>
+```
+
 ![Home Page](Screenshots-Eventora/eventorafront.jpg)
 
 ![Events Page](Screenshots-Eventora/eventsshow.jpg)
