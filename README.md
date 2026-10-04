@@ -1,4 +1,12 @@
 # Eventora – Event Management System
+
+
+![Home Page](Screenshots-Eventora/eventorafront.jpg)
+
+![Events Page](Screenshots-Eventora/eventsshow.jpg)
+
+![Admin Dashboard](Screenshots-Eventora/adminapproved.jpg)
+
 ```html
 ## Screenshots
 
@@ -14,12 +22,6 @@
   <img src="Screenshots-Eventora/adminapproved.jpg" width="550">
 </p>
 ```
-
-![Home Page](Screenshots-Eventora/eventorafront.jpg)
-
-![Events Page](Screenshots-Eventora/eventsshow.jpg)
-
-![Admin Dashboard](Screenshots-Eventora/adminapproved.jpg)
 
 Eventora is a full-stack event management web application that allows users to discover events, register for events, and manage their bookings. It also provides an admin dashboard for creating and managing events.
 
