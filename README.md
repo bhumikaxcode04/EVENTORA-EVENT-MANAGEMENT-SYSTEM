@@ -1,29 +1,23 @@
 # Eventora – Event Management System
 
-
-```html
 ## Screenshots
 
 <table>
   <tr>
     <td align="center">
       <b>Home Page</b><br>
-      <img src="Screenshots-Eventora/eventorafront.jpg" width="300">
+      <img src="Screenshots-Eventora/eventorafront.jpg" width="250">
     </td>
     <td align="center">
       <b>Events Page</b><br>
-      <img src="Screenshots-Eventora/eventsshow.jpg" width="300">
+      <img src="Screenshots-Eventora/eventsshow.jpg" width="250">
     </td>
     <td align="center">
       <b>Admin Dashboard</b><br>
-      <img src="Screenshots-Eventora/adminapproved.jpg" width="300">
+      <img src="Screenshots-Eventora/adminapproved.jpg" width="250">
     </td>
   </tr>
 </table>
-```
-
-
-
 
 Eventora is a full-stack event management web application that allows users to discover events, register for events, and manage their bookings. It also provides an admin dashboard for creating and managing events.
 
@@ -105,6 +99,11 @@ Eventora/
 │
 ├── postman/
 │   └── Eventora_API_Collection.json
+│
+├── Screenshots-Eventora/
+│   ├── eventorafront.jpg
+│   ├── eventsshow.jpg
+│   └── adminapproved.jpg
 │
 └── README.md
 ```
@@ -221,7 +220,7 @@ into Postman to test the APIs.
 
 Sensitive information is not included in this repository.
 
-The following files should remain private:
+The following file should remain private:
 
 ```text
 .env
