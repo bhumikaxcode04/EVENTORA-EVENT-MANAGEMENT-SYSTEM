@@ -228,6 +228,6 @@ Eventora was developed as a practical full-stack project to understand:
 
 ## Author
 
-**Harsh Saraswat**
+**BHUMIKA SARASWAT**
 
 Eventora is developed as an academic and learning project demonstrating full-stack web development.
